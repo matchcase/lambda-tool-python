@@ -23,7 +23,7 @@ dune build && dune install
 ## Install
 
 ```bash
-pip install lambda-tool
+pip install lambda-tool-python
 ```
 
 The package auto-discovers the `lambda_tool` binary from PATH, dune build output, or opam install locations.
